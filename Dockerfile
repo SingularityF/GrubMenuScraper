@@ -9,7 +9,8 @@ RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
 RUN apt-get update
 RUN apt-get -y install procps git xvfb python3 vim python3-pip \
-fonts-liberation libappindicator3-1 libasound2 libatk-bridge2.0-0 \
+fonts-liberation fonts-arphic-ukai fonts-arphic-uming fonts-ipafont-mincho fonts-ipafont-gothic fonts-unfonts-core \
+libappindicator3-1 libasound2 libatk-bridge2.0-0 \
 libnspr4 libnss3 lsb-release xdg-utils libxss1 libdbus-glib-1-2 \
 curl unzip wget firefox
 
