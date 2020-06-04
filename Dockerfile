@@ -16,4 +16,5 @@ curl unzip wget firefox
 RUN pip3 install --upgrade pip
 RUN pip3 install -r requirements
 
+COPY ./geckodriver /usr/local/bin/
 RUN chmod a+x /usr/local/bin/geckodriver
