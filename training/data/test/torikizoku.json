@@ -2,7 +2,12 @@
   {
     "text": "焼鳥屋（居酒屋）焼き鳥なら鳥貴族",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "DIV",
+      "HEADER",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -25,7 +30,14 @@
   {
     "text": "アレルギー・栄養成分情報、原産国情報",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "HEADER",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -48,7 +60,14 @@
   {
     "text": "ご意見・お問い合わせ",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "HEADER",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -71,7 +90,12 @@
   {
     "text": "焼鳥屋 鳥貴族",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -86,13 +110,22 @@
   {
     "text": ">",
     "tag": "LI",
-    "parents": [],
+    "parents": [
+      "UL",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "メニュー",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -107,19 +140,37 @@
   {
     "text": ">",
     "tag": "LI",
-    "parents": [],
+    "parents": [
+      "UL",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "逸品料理",
     "tag": "H1",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "メニュー",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -142,7 +193,16 @@
   {
     "text": "期間限定メニュー",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -165,7 +225,16 @@
   {
     "text": "今月のオススメ",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -188,7 +257,16 @@
   {
     "text": "焼鳥",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -211,7 +289,16 @@
   {
     "text": "逸品料理",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -234,7 +321,16 @@
   {
     "text": "スピードメニュー",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -257,7 +353,16 @@
   {
     "text": "ご飯もの／デザート",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -280,7 +385,16 @@
   {
     "text": "ドリンク",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -303,7 +417,16 @@
   {
     "text": "トリキ晩餐会",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -326,7 +449,16 @@
   {
     "text": "フリーワード検索",
     "tag": "P",
-    "parents": [],
+    "parents": [
+      "FORM",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -341,13 +473,31 @@
   {
     "text": "店名や地域名、駅名から検索",
     "tag": "P",
-    "parents": [],
+    "parents": [
+      "FORM",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "条件・サービスで絞り込む",
     "tag": "P",
-    "parents": [],
+    "parents": [
+      "FORM",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -362,7 +512,16 @@
   {
     "text": "＞アイコン説明",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "FORM",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -385,7 +544,17 @@
   {
     "text": "検索する",
     "tag": "BUTTON",
-    "parents": [],
+    "parents": [
+      "DIV",
+      "FORM",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -400,7 +569,15 @@
   {
     "text": "エリアから検索",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -423,7 +600,13 @@
   {
     "text": "国産鶏肉を使用している鶏メニューはもちろんのこと、\n鳥貴族ならではのこだわりの逸品メニューをご堪能ください。",
     "tag": "P",
-    "parents": [],
+    "parents": [
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -438,7 +621,14 @@
   {
     "text": "グランドメニュー",
     "tag": "H4",
-    "parents": [],
+    "parents": [
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -453,49 +643,122 @@
   {
     "text": "トリキの唐揚",
     "tag": "H5",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "とりあえず唐揚!!淡路島産玉ねぎ使用の特製パウダーに漬け込み、サクサク、ジューシーな味に仕上げました。",
     "tag": "P",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "ポテトフライ",
     "tag": "H5",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "自然な甘味の国産じゃがいも使用。歯ざわりはほっこり、なめらか。バターソースやケチャップでどうぞ。",
     "tag": "P",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "とり天",
     "tag": "H5",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "-梅肉ソース添え-",
     "tag": "SPAN",
-    "parents": [],
+    "parents": [
+      "H5",
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "熱々のとり天に梅肉ソースを添えてどうぞ。ほのかな酸味としその香りが食欲を刺激。",
     "tag": "P",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "北海道産和風ポテトさらだ",
     "tag": "H5",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -510,7 +773,17 @@
   {
     "text": "【北海道産馬鈴薯(さやか)使用！】",
     "tag": "SPAN",
-    "parents": [],
+    "parents": [
+      "H5",
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -525,103 +798,255 @@
   {
     "text": "北海道産のじゃがいもにオニオンスライス、かつお節を乗せて和風に仕上げました。",
     "tag": "P",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "口水鶏",
     "tag": "RUBY",
-    "parents": [],
+    "parents": [
+      "H5",
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "よだれどり",
     "tag": "RT",
-    "parents": [],
+    "parents": [
+      "RUBY",
+      "H5",
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "香辛料を効かせた中華ソースが食欲を誘うよだれもんの逸品。",
     "tag": "P",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "粗挽ポークソーセージ串焼",
     "tag": "H5",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "国産のポークを使用。しゃきっと噛めば、肉の旨味がしっかり、ジューシー。",
     "tag": "P",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "チキン南蛮",
     "tag": "H5",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "揚げたてのカリッとして香ばしい食感と、モモ肉のやわらかでジューシーな食感。",
     "tag": "P",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "カマンベールコロッケ",
     "tag": "H5",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "人気の秘密はもちトロ食感！カマンベール、クリーム、チェダーチーズをミックス、豊かな風味がやみつきに。",
     "tag": "P",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "ひざなんこつ唐揚",
     "tag": "H5",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "ビールのつまみに◎。サクサク、コリコリと噛むほどにうま味が味わえる。この塩味がたまらない。",
     "tag": "P",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "ふんわり山芋の鉄板焼",
     "tag": "H5",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "口の中で柔らかく溶ける山芋と、こくを感じるだしのハーモニー。濃厚な山芋の味が楽しめます。",
     "tag": "P",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "アレルギー、栄養成分、原産国に関する最新情報をPDFで提供しております。\n下記リンクよりPDFをダウンロードしてご覧ください。",
     "tag": "P",
-    "parents": [],
+    "parents": [
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "PDFファイルのダウンロード",
     "tag": "H5",
-    "parents": [],
+    "parents": [
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "アレルギー・栄養成分表（グランドメニュー）　日本語・英語　＞＞",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -644,7 +1069,16 @@
   {
     "text": "アレルギー・栄養成分表（期間限定メニュー）　日本語・英語　＞＞",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -667,7 +1101,16 @@
   {
     "text": "原産国情報（グランドメニュー）　日本語・英語　＞＞",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -690,7 +1133,16 @@
   {
     "text": "原産国情報（期間限定メニュー）　日本語・英語　＞＞",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -713,7 +1165,16 @@
   {
     "text": "アレルギー・栄養成分表、原産国情報（今月のオススメ） 日本語・英語　＞＞",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -736,7 +1197,16 @@
   {
     "text": "牛肉トレーサビリティの取り組み　日本語　＞＞",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -759,13 +1229,30 @@
   {
     "text": "PDFファイルをご覧頂くには、Adobe Readerが必要です。（無料）\n",
     "tag": "P",
-    "parents": [],
+    "parents": [
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "Adobe Readerのダウンロードページはこちら",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "P",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -788,7 +1275,16 @@
   {
     "text": "企業情報",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "FOOTER",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -811,13 +1307,30 @@
   {
     "text": "|",
     "tag": "LI",
-    "parents": [],
+    "parents": [
+      "UL",
+      "DIV",
+      "FOOTER",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "サイトマップ",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "FOOTER",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -832,13 +1345,30 @@
   {
     "text": "|",
     "tag": "LI",
-    "parents": [],
+    "parents": [
+      "UL",
+      "DIV",
+      "FOOTER",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "プライバシーポリシー",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "FOOTER",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -853,13 +1383,30 @@
   {
     "text": "|",
     "tag": "LI",
-    "parents": [],
+    "parents": [
+      "UL",
+      "DIV",
+      "FOOTER",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "サイトのご利用にあたって",
     "tag": "A",
-    "parents": [],
+    "parents": [
+      "LI",
+      "UL",
+      "DIV",
+      "FOOTER",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": [
       [
         [
@@ -874,13 +1421,27 @@
   {
     "text": "焼鳥屋（居酒屋）焼き鳥なら鳥貴族",
     "tag": "P",
-    "parents": [],
+    "parents": [
+      "DIV",
+      "FOOTER",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   },
   {
     "text": "COPYRIGHT © TORIKIZOKU ALL RIGHTS RESERVED.",
     "tag": "ADDRESS",
-    "parents": [],
+    "parents": [
+      "DIV",
+      "FOOTER",
+      "DIV",
+      "DIV",
+      "BODY",
+      "HTML"
+    ],
     "properties": []
   }
 ]
