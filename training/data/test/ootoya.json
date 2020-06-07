@@ -1,0 +1,1799 @@
+[
+  {
+    "text": "株主の皆様へ　当社委任状による議決権行使のお願い",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "http://ootoya-info.jp/"
+        ]
+      ],
+      [
+        [
+          "target"
+        ],
+        [
+          "_blank"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": ">",
+    "tag": "LI",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "TOP",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "../../index.html"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": ">",
+    "tag": "LI",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "メニューのご案内",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "../index.html"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "定食",
+    "tag": "LI",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "鶏",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "#category_tori"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "魚",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "#category_sakana"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "野菜",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "#category_yasai"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "土鍋",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "#category_donabe"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "豆腐",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "#category_tofu"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "豚",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "#category_buta"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "牛",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "#category_ushi"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "丼・お重",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "#category_don"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "麺・麺セット",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "#category_noodle"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "定食",
+    "tag": "H2",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "メニュー一覧へ",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "../index.html"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "定",
+    "tag": "SPAN",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "食",
+    "tag": "SPAN",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "メニュー一覧へ",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "../index.html"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "鶏の定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "大戸屋風チキン南蛮定食",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "728円（税込：800円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "おかず単品 / 555円（税込：610円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "single"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "炭火焼きチキンの葱ソース定食",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "728円（税込：800円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "おかず単品 / 555円（税込：610円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "single"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "もろみチキンの炭火焼き定食",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "810円（税込：890円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "おかず単品 / 637円（税込：700円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "single"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "鶏と野菜の黒酢あん定食",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "810円（税込：890円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "おかず単品 / 637円（税込：700円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "single"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "香味唐揚げ定食",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "810円（税込：890円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "おかず単品 / 637円（税込：700円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "single"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "大戸屋ランチ定食",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "719円（税込：790円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "おかず単品 / 546円（税込：600円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "single"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "魚の定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "鯵の炭火焼き定食",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "900円（税込：990円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "おかず単品 / 728円（税込：800円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "single"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "しまほっけの炭火焼き定食",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "900円（税込：990円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "おかず単品 / 728円（税込：800円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "single"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "さばの炭火焼き定食",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "810円（税込：890円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "おかず単品 / 637円（税込：700円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "single"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "すけそう鱈と野菜の黒酢あん定食",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "837円（税込：920円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "おかず単品 / 664円（税込：730円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "single"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "野菜の定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "ポテタル鶏竜田のサラダ定食",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "810円（税込：890円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "おかず単品 / 637円（税込：700円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "single"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "土鍋の定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "チキン味噌かつ煮定食",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "800円（税込：880円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "おかず単品 / 628円（税込：690円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "single"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "チキンかあさん煮定食",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "810円（税込：890円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "おかず単品 / 637円（税込：700円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "single"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "豆腐の定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "手造り豆腐とチキンのトロトロ煮定食",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "773円（税込：850円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "おかず単品 / 600円（税込：660円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "single"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "豚の定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "四元豚のロースかつ定食",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "882円（税込：970円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "おかず単品 / 710円（税込：780円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "single"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "牛の定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "丼・お重",
+    "tag": "H3",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "炭火焼き鶏の親子丼",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "746円（税込：820円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "ソースチキンかつ丼",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "600円（税込：660円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "ばくだん丼",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "746円（税込：820円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "四元豚のロースかつ重",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "900円（税込：990円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "麺・麺セット",
+    "tag": "H3",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "せいろ蕎麦",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "455円（税込：500円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "温蕎麦",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "455円（税込：500円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "せいろうどん",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "445円（税込：500円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "温うどん",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "455円（税込：500円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "ソースチキンかつ丼とせいろ蕎麦",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "873円（税込：960円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "ソースチキンかつ丼と温蕎麦",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "873円（税込：960円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "ソースチキンかつ丼とせいろうどん",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "873円（税込：960円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "ソースチキンかつ丼と温うどん",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "text fontRyo"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "873円（税込：960円）",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "price"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "商品の内容仕様を予告なく変更、終了することがございます。また、店舗によりお取り扱いのない商品がございます。",
+    "tag": "LI",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "カロリー、塩分、アレルギー表示については「」をご覧ください。",
+    "tag": "LI",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "食材産地、カロリー・塩分、アレルギーの表示について",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "../about/index.html"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "うどんと蕎麦は、同じお湯で茹でています。",
+    "tag": "LI",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "ﾕﾆﾊﾞｰｻﾙｼﾃｨ店では、販売価格が異なります。",
+    "tag": "LI",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "食材産地、カロリー・塩分、アレルギーの表示について",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "../about/index.html"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "メニュー一覧へ",
+    "tag": "SPAN",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "トップ",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "メニューのご案内",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/menu/"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "地図から店舗を探す",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/store/"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "あばうと大戸屋",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/about/"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "新着情報",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/news/"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "食育セミナー",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "http://shokuiku.ootoya.com/"
+        ]
+      ],
+      [
+        [
+          "target"
+        ],
+        [
+          "_blank"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "FC加盟店募集",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/fc_top.html"
+        ]
+      ],
+      [
+        [
+          "target"
+        ],
+        [
+          "_blank"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "物件募集",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/fc_bukken.html"
+        ]
+      ],
+      [
+        [
+          "target"
+        ],
+        [
+          "_blank"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "アレルギー特定原材料情報・\n塩分値一覧",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/allergy/list.html"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "プライバシーポリシー",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/privacy/"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "会社情報",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "http://ootoya.jp/"
+        ]
+      ],
+      [
+        [
+          "target"
+        ],
+        [
+          "_blank"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "English",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "https://gurunavi.com/en/japanfoodie/2017/03/homestyle-japanese-dishes-ootoya.html"
+        ]
+      ],
+      [
+        [
+          "target"
+        ],
+        [
+          "_blank"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "簡体中",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "https://gurunavi.com/zh-hans/japanfoodie/2017/03/homestyle-japanese-dishes-ootoya.html"
+        ]
+      ],
+      [
+        [
+          "target"
+        ],
+        [
+          "_blank"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "한국어",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "https://gurunavi.com/ko/japanfoodie/2017/03/homestyle-japanese-dishes-ootoya.html"
+        ]
+      ],
+      [
+        [
+          "target"
+        ],
+        [
+          "_blank"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "繁體中",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "https://gurunavi.com/zh-hant/japanfoodie/2017/03/homestyle-japanese-dishes-ootoya.html"
+        ]
+      ],
+      [
+        [
+          "target"
+        ],
+        [
+          "_blank"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "COPYRIGHT OOTOYA CO.,LTD All Rights Reserved.",
+    "tag": "DIV",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "copy"
+        ]
+      ]
+    ]
+  }
+]

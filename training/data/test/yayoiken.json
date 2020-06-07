@@ -1,0 +1,1705 @@
+[
+  {
+    "text": "／",
+    "tag": "LI",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "ホーム",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/#index"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "メニュー",
+    "tag": "LI",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "【お知らせ】新型コロナウイルス感染防止の為、営業時間の短縮、一部商品の限定販売、臨時休業を実施しております。詳細は「お店を探す」よりご確認ください。",
+    "tag": "TD",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "\n",
+    "tag": "UL",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "clearfix"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "小麦",
+    "tag": "LABEL",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "for"
+        ],
+        [
+          "al0"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "卵",
+    "tag": "LABEL",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "for"
+        ],
+        [
+          "al1"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "乳",
+    "tag": "LABEL",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "for"
+        ],
+        [
+          "al2"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "落花生",
+    "tag": "LABEL",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "for"
+        ],
+        [
+          "al3"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "そば",
+    "tag": "LABEL",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "for"
+        ],
+        [
+          "al4"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "えび",
+    "tag": "LABEL",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "for"
+        ],
+        [
+          "al5"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "かに",
+    "tag": "LABEL",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "for"
+        ],
+        [
+          "al6"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "※除外したいものに\nチェックしてください。",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "アレルギー",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/menu_list/info#tabs1"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "栄養成分",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/menu_list/info#tabs2"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "原産国",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/menu_list/info#tabs3"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "おすすめメニュー",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "#recommend"
+        ]
+      ],
+      [
+        [
+          "class"
+        ],
+        [
+          "hover"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "定食",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "#set"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "丼・お子様メニュー",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "#bowl"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "朝食",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "#breakfast"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "サイドメニュー",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "#side"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "おすすめメニュー",
+    "tag": "H2",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "recommend_ttl"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "※定食のごはんはおかわり自由です。\n※もち麦ごはんをご注文の場合は、白米のおかわりのみ自由となっております。",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "冷汁ととり天の定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "890円(税抜:810円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "※冷汁の単品販売も行っております。\n\n\n",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "sub_info"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "うなぎの蒲焼定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "1,290円(税抜:1,173円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "特うなぎの蒲焼定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "1,590円(税抜:1,446円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "ひつまぶし定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "1,290円(税抜:1,173円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "※この定食はもち麦ごはんに変更できません。",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "sub_info"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "和風おろし焼肉定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "790円(税抜:719円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "特和風おろし焼肉定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "1,090円(税抜:991円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "和風おろしロースとんかつとエビフライの定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "890円(税抜:810円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "和風おろしカットステーキ定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "1,000円(税抜:910円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "特和風おろしカットステーキ定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "1,520円(税抜:1,382円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "和風おろしカットステーキミックス定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "1,000円(税抜:910円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "真アジの一汐干し定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "760円(税抜:691円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "ねばとろごはんととり天の定食\n",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "890円(税抜:810円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "銀鮭の塩焼定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "790円(税抜:719円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "肉豆腐と焼魚の定食\n",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "860円(税抜:782円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "肉豆腐とメンチカツの定食\n",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "860円(税抜:782円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "鉄板牛バラ焼き定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "790円(税抜:719円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "特・鉄板牛バラ焼き定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "1,090円(税抜:991円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "貝汁としまほっけの定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "890円(税抜:810円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "とり天定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "790円(税抜:719円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "漬け込みカルビ焼肉定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "890円(税抜:810円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "漬け込み特カルビ焼肉定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "1,290円(税抜:1,173円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "カットステーキ定食【和風ソース】",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "1,000円(税抜:910円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "特カットステーキ定食【和風ソース】",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "1,520円(税抜:1,382円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "カットステーキミックス定食【和風ソース】",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "1,000円(税抜:910円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "※つけ合わせが異なる場合がございます。",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "sub_info"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "定食",
+    "tag": "H2",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "recommend_ttl"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "※定食のごはんはおかわり自由です。\n※もち麦ごはんをご注文の場合は、白米のおかわりのみ自由となっております。",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "サバの塩焼定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "670円(税抜:610円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "サバの味噌煮定食\n",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "670円(税抜:610円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "しまほっけ定食\n",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "890円(税抜:810円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "なす味噌と焼魚の定食\n",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "930円(税抜:846円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "しょうが焼定食\n",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "640円(税抜:582円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "肉野菜炒め定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "730円(税抜:664円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "たっぷり野菜の肉野菜炒め定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "830円(税抜:755円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "から揚げ定食\n",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "730円(税抜:664円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "※地域で価格が異なります。",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "sub_info"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "特から揚げ定食\n",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "860円(税抜:782円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "チキン南蛮定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "760円(税抜:691円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "チキン南蛮とエビフライの定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "980円(税抜:891円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "ロースとんかつとエビフライの定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "890円(税抜:810円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "味噌かつ煮定食\n",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "780円(税抜:710円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "ミックスとじ定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "790円(税抜:719円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "デミハンバーグ定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "850円(税抜:773円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "※一部店舗では販売を終了しております。",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "sub_info"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "和風おろしハンバーグ定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "800円(税抜:728円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "※一部店舗では販売を終了しております。",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "sub_info"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "4種のチーズハンバーグ定食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "910円(税抜:828円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "※一部店舗では販売を終了しております。",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "sub_info"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "丼・お子様メニュー",
+    "tag": "H2",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "地鶏親子丼 ～阿波尾鶏～",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "680円(税抜:619円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "※みそ汁付\n\n",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "sub_info"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "かつ丼",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "690円(税抜:628円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "※みそ汁付\n",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "sub_info"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "鉄火丼",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "760円(税抜:691円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "※みそ汁付\n",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "sub_info"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "お子様ランチ",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "490円(税抜:446円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "※一部店舗の限定メニューです。販売店舗は店舗情報をご確認下さい。",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "sub_info"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "お子様カレー（低アレルゲン)",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "490円(税抜:446円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "※一部店舗の限定メニューです。販売店舗は店舗情報をご確認下さい。",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "sub_info"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "朝食",
+    "tag": "H2",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "recommend_ttl"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "※定食のごはんはおかわり自由です。\n※もち麦ごはんをご注文の場合は、白米のおかわりのみ自由となっております。",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "納豆朝食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "390円(税抜:355円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "※一部店舗の限定メニューです。販売店舗は店舗情報をご確認下さい。\n※朝食の販売時間は、24時間営業店舗は5～11時、その他の店舗につきましては店舗にお問い合わせください。",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "sub_info"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "目玉焼朝食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "470円(税抜:428円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "※一部店舗の限定メニューです。販売店舗は店舗情報をご確認下さい。\n※朝食の販売時間は、24時間営業店舗は5～11時、その他の店舗につきましては店舗にお問い合わせください。",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "sub_info"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "しゃけの塩焼朝食",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "540円(税抜:491円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "※一部店舗の限定メニューです。販売店舗は店舗情報をご確認下さい。\n※朝食の販売時間は、24時間営業店舗は5～11時、その他の店舗につきましては店舗にお問い合わせください。",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "sub_info"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "サイドメニュー",
+    "tag": "H2",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "タルタルソース（単品）",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "50円(税抜:46円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "生たまご",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "60円(税抜:55円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "とろろ",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "150円(税抜:137円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "納豆",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "100円(税抜:91円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "冷奴",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "100円(税抜:91円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "野菜サラダ",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "90円(税抜:82円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "冷汁(単品)",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "280円(税抜:255円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "\n",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "sub_info"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "ねばとろ小鉢\n",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "490円(税抜:446円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "玉子焼き",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "190円(税抜:173円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "大盛りフライドポテト",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "170円(税抜:155円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "フライドポテト＆ウインナー",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "200円(税抜:182円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "※一部店舗では販売をしておりません。",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "class"
+        ],
+        [
+          "sub_info"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "ミニから揚げ",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "180円(税抜:164円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "イカのから揚げ",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "190円(税抜:173円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "みそ汁(単品)",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "100円(税抜:91円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "貝汁",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "280円(税抜:255円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "生ビール（小ジョッキ）",
+    "tag": "H3",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "390円(税抜:355円)",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "※やよい軒で使用しているごはんは、国産米１００％です。\n※定食・朝食のごはんは、プラス30円(大盛はプラス80円)で「もち麦ごはん」もお選びいただけます。\n※もち麦ごはんをご注文の場合は、白米のおかわりのみ自由となっております。\n※漬物は、各テーブルの漬物鉢よりご自由にお召し上がり下さい。\n※写真はイメージです。商品は写真と異なる場合がございます。\n※商品のお持ち帰りはできません。\n※店舗によりお取り扱いのない商品がございます。\n※店舗により商品の価格や内容が異なる場合がございます。\n※お車を運転されるお客様はアルコール飲料はご遠慮ください。\n※20歳未満のお客様へのアルコールの販売はお断りいたします。\n※商品は税込み価格です。\n※朝食・お子様メニューは一部店舗の限定メニューです。販売店舗は店舗情報をご確認下さい。\n※朝食の販売時間は、24時間営業店舗は5～11時、その他の店舗につきましては店舗にお問い合わせください。\n",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "ホームに戻る",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/#index"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "やよい軒について",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/about/"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "メニュー",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/menu_list/"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "店舗",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/store/"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "WORLD WIDE",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/world/"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "お問い合わせ",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "https://www.plenus.co.jp/yayoi/contact/index.php"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "新着情報",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/news/"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "公式スマホアプリ会員募集",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/mobile_apps/"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "加盟店オーナー募集",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "https://www.plenus.co.jp/franchise/"
+        ]
+      ],
+      [
+        [
+          "target"
+        ],
+        [
+          "_blank"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "社員採用・クルー募集",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/recruit/"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "物件募集",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/realestate/"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "やよい軒公式Facebook",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "https://www.facebook.com/yayoiken.jp"
+        ]
+      ],
+      [
+        [
+          "target"
+        ],
+        [
+          "_blank"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "やよい軒公式Twitter",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "https://twitter.com/yayoiken_com"
+        ]
+      ],
+      [
+        [
+          "target"
+        ],
+        [
+          "_blank"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "プライバシーポリシー",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/policy/privacy_policy.html"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "サイトポリシー",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/policy/site_policy.html"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "ソーシャルメディアガイドライン",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/policy/social_guide.html"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "サイトマップ",
+    "tag": "A",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "href"
+        ],
+        [
+          "/sitemap/"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "© PLENUS Co.,ltd.All Rights reserved.",
+    "tag": "P",
+    "parents": [],
+    "properties": []
+  },
+  {
+    "text": "M",
+    "tag": "P",
+    "parents": [],
+    "properties": [
+      [
+        [
+          "style"
+        ],
+        [
+          "display: block; visibility: hidden; position: absolute; padding: 0px; top: 0px;"
+        ]
+      ]
+    ]
+  }
+]
